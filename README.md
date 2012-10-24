@@ -8,7 +8,7 @@ By using CREADECORP's proprietary COMMITINTENT commit message format ( PROJECTNA
 1. Write a regex that captures each member of a given role
 2. Put that regex into storytme where it says `NAME_REGEX`
 3. Put the corresponding 3 letter role name in where it says `ROLE`
-4. run the following in the repo you wish to track `sh path_to/storytime 301 402` where `301` and `402` are the story numbers that require analyzing. 
+4. Run the following in the repo you wish to track `sh path_to/storytime 301 402` where `301` and `402` are the story numbers that require analyzing. 
 5. Receive your results:
 
   2012-04-02 CREADECORP-301[DEV]
